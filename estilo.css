@@ -1,0 +1,9 @@
+#contenido{
+    width: 300px;
+    background: rgb(red, green, blue);
+    font: 20px arial;
+    margin: auto;
+    margin-top: 150px;
+    border: 10px;
+    box-shadow: 10px 10px;
+}
