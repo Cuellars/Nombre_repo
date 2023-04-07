@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: grey;
+}
+
+h1{
+    margin: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue (0, 255, 179);
+}
+
+.contenedor table{ 
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    text-align: center;
+}
+
+table th{
+    background-color: G;
+    color: white;
+}
+
+table td{
+    background-color: rgb(61, 128, 171);
+    color: white;
+}
